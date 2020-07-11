@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-07-11T16:39:02.673Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" version="13.4.0" etag="wGOCmMNNWod-pZgtuBMz" type="github"><diagram id="gZBM5o023uwT4ot64KHl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-11T16:43:14.274Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="mE2NsMzAoohGzTwb35r-" version="13.4.0" type="github">
+  <diagram id="gZBM5o023uwT4ot64KHl" name="Page-1">
+    <mxGraphModel dx="2066" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hiq2y5n62OcjtDX8gpG9-1" value="System Call" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hiq2y5n62OcjtDX8gpG9-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="190" y="340" width="450" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hiq2y5n62OcjtDX8gpG9-4" value="Device Drivers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="520" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hiq2y5n62OcjtDX8gpG9-5" value="Memory Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hiq2y5n62OcjtDX8gpG9-6" value="CPU&lt;br&gt;Scheduler" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hiq2y5n62OcjtDX8gpG9-7" value="File system&lt;br&gt;Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hiq2y5n62OcjtDX8gpG9-8" value="Inter process&lt;br&gt;communication" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hiq2y5n62OcjtDX8gpG9-9" value="Networking&lt;br&gt;Stack" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
