@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T13:58:07.097Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="7yavF5_4rtJaPVt7I2cc" version="13.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-18T13:58:24.215Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="Hi_0Zsj0NJkCSZEcCgdP" version="13.4.2" type="github">
   <diagram id="6X9iDSffkUhU1rgSUAnf" name="Page-1">
     <mxGraphModel dx="2066" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
         <mxCell id="RYhOKikKKVjZrI6NrDDE-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYhOKikKKVjZrI6NrDDE-3" target="RYhOKikKKVjZrI6NrDDE-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYhOKikKKVjZrI6NrDDE-3" value="If P is a child" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="RYhOKikKKVjZrI6NrDDE-3" value="If P is a child" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="410" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RYhOKikKKVjZrI6NrDDE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYhOKikKKVjZrI6NrDDE-9">
@@ -36,13 +36,13 @@
             <mxPoint x="370" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYhOKikKKVjZrI6NrDDE-9" value="If P is a zombie" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="RYhOKikKKVjZrI6NrDDE-9" value="If P is a zombie" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="535" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RYhOKikKKVjZrI6NrDDE-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RYhOKikKKVjZrI6NrDDE-4" target="RYhOKikKKVjZrI6NrDDE-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYhOKikKKVjZrI6NrDDE-4" value="Process &quot;p&quot; in the page table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RYhOKikKKVjZrI6NrDDE-4" value="Process &quot;p&quot; in the page table" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -51,16 +51,16 @@
         <mxCell id="RYhOKikKKVjZrI6NrDDE-8" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="510" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RYhOKikKKVjZrI6NrDDE-12" value="Sleep" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RYhOKikKKVjZrI6NrDDE-12" value="Sleep" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="150" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RYhOKikKKVjZrI6NrDDE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RYhOKikKKVjZrI6NrDDE-14" target="RYhOKikKKVjZrI6NrDDE-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYhOKikKKVjZrI6NrDDE-14" value="Deallocte kernel stack free page directory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RYhOKikKKVjZrI6NrDDE-14" value="Deallocte kernel stack free page directory" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="310" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RYhOKikKKVjZrI6NrDDE-15" value="Return pid(p)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RYhOKikKKVjZrI6NrDDE-15" value="Return pid(p)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="510" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
